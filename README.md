@@ -1,1 +1,1 @@
-# Coursera: Rock, Paper, Scissors on Apps
+# Coursera: Rock, Paper, Scissors on App
